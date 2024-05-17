@@ -4,7 +4,7 @@
         <field name="name">res.bank.kanban.views</field>
         <field name="model">res.bank</field>
         <field name="arch" type="xml">
-            <kanban class="o_modules_kanban" js_class="sync_bank_btn_kanban">
+            <kanban class="o_modules_kanban">
                 <field name="name"/>
                 <field name="bic"/>
                 <field name="short_name"/>
