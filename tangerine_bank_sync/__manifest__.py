@@ -5,7 +5,7 @@
     'author': 'Long Duong Nhat',
     'category': 'Extra Tools',
     'support': 'odoo.tangerine@gmail.com',
-    'version': '17.0.1.0',
+    'version': '13.0.1.0',
     'post_init_hook': 'bank_information_sync',
     'depends': ['base',],
     'data': ['views/res_bank_views.xml'],
