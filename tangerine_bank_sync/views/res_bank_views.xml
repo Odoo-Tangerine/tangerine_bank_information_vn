@@ -12,7 +12,7 @@
                     <t t-name="kanban-box">
                         <div class="oe_kanban_global_click o_kanban_record_has_image_fill o_res_partner_kanban">
                             <div class="o_kanban_image_fill_left d-none d-md-block">
-                                <img t-attf-src="/tangerine_bank_information_vn/static/logo/#{record.bic.value}.png" style="max-width: 100%; height:auto; margin-top:30%;" alt="Icon"/>
+                                <img t-attf-src="/tangerine_bank_sync/static/logo/#{record.bic.value}.png" style="max-width: 100%; height:auto; margin-top:30%;" alt="Icon"/>
                             </div>
                             <div class="oe_kanban_details d-flex flex-column justify-content-between">
                                 <div>
